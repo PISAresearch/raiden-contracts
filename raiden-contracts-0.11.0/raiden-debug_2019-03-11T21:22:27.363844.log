@@ -1,0 +1,1 @@
+{"raiden": "0.100.2", "python_implementation": "CPython", "python_version": "3.7.2", "system": "macOS 10.12.5 64bit", "distribution": "source", "event": "Starting Raiden", "logger": "raiden.ui.runners", "level": "info", "timestamp": "2019-03-11 21:22:27.716387"}

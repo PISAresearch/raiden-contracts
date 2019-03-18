@@ -1,0 +1,2 @@
+{"raiden": "0.100.2", "python_implementation": "CPython", "python_version": "3.7.2", "system": "macOS 10.12.5 64bit", "distribution": "source", "event": "Starting Raiden", "logger": "raiden.ui.runners", "level": "info", "timestamp": "2019-03-14 09:17:38.992216"}
+{"node": "8183c626", "available_nonce": 0, "client": "Geth/v1.8.22-omnibus-260f7fbd/linux-amd64/go1.11.1", "event": "JSONRPCClient created", "logger": "raiden.network.rpc.client", "level": "debug", "timestamp": "2019-03-14 09:17:44.119408"}
