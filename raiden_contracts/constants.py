@@ -18,7 +18,7 @@ CONTRACT_RAIDEN_SERVICE_BUNDLE = 'RaidenServiceBundle'
 TEST_SETTLE_TIMEOUT_MIN = 5
 TEST_SETTLE_TIMEOUT_MAX = 100000
 
-DEPLOY_SETTLE_TIMEOUT_MIN = 500  # ~ 2 hours
+DEPLOY_SETTLE_TIMEOUT_MIN = 5  # ~ 1 min
 DEPLOY_SETTLE_TIMEOUT_MAX = 555428  # ~ 3 months
 
 # Temporary deposit limits for the Red Eyes release in WEI
